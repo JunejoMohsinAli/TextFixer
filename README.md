@@ -40,5 +40,5 @@ For a production-ready application, consider integrating **TypeScript** for type
 Feel free to contribute to this project by submitting issues or pull requests. This project is open-source and free to use under a permissive license.
 
 ---
-**Author:** [Mohsin Ali Junejo]
+**Author:** Mohsin Ali Junejo
 
