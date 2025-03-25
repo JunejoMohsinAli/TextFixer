@@ -37,7 +37,7 @@ For a production-ready application, consider integrating **TypeScript** for type
 
 ---
 ### Contribution & License
-Feel free to contribute to this project by submitting issues or pull requests. Licensed under [MIT License](LICENSE).
+Feel free to contribute to this project by submitting issues or pull requests. This project is open-source and free to use under a permissive license.
 
 ---
 **Author:** [Mohsin Ali Junejo]
