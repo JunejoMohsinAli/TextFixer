@@ -1,29 +1,44 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # TextFixer
-Text Utility that has functionalities to manipulate text by converting it to Uppercase, Lowercase, clearing text, copying text, and removing extra spaces.
-=======
-# React + Vite
 
-<!-- Run this command first: -->
-npm install
+## Overview
+TextFixer is a simple text utility tool that provides various functionalities to manipulate text, including:
+- Converting text to 
+- **Uppercase**
+- **Lowercase**
+- **Clearing** the text
+- **Copying** text to the clipboard
+- **Removing extra spaces** of the text
 
-<!-- then this command to start -->
-npm run dev
+## Installation & Setup
 
+This project is built using **React** and **Vite**. Follow the steps below to set up and run the project:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. Install dependencies:
+   ```sh
+   npm install
+   ```
 
-Currently, two official plugins are available:
+2. Start the development server:
+   ```sh
+   npm run dev
+   ```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- **React** (for building the user interface)
+- **Vite** (for fast development and hot module replacement)
 
-## Expanding the ESLint configuration
+## Plugins
+This project supports the following Vite plugins:
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react) - Uses Babel for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) - Uses SWC for Fast Refresh
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 5520024 (Initial Commit)
-=======
-# TextFixer
-TextFixer a text utility
->>>>>>> 5379a412a3a9f333779ab707b12c7e899d7efb8a
+## Enhancing the Project
+For a production-ready application, consider integrating **TypeScript** for type safety and enabling type-aware lint rules. Check out the [Vite React TypeScript template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for guidance.
+
+---
+### Contribution & License
+Feel free to contribute to this project by submitting issues or pull requests. Licensed under [MIT License](LICENSE).
+
+---
+**Author:** [Mohsin Ali Junejo]
+
