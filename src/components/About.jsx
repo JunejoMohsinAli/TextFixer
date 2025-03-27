@@ -124,6 +124,19 @@ export default function About(props) {
           </div>
         </div>
       </div>
+
+          <div className="card" style={myStyle}>
+      <div className="card-header">
+        Quote
+      </div>
+      <div className="card-body">
+        <blockquote className="blockquote mb-0">
+          <p>Great web design without functionality is like a sports car with no engine.</p>
+          <footer className="blockquote-footer"><cite title="Source Title">Paul Cookson</cite></footer>
+        </blockquote>
+      </div>
+    </div>
+
     </div>
   );
 }
